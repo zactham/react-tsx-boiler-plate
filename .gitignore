@@ -1,0 +1,31 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+
+# Node.js
+node_modules/
+build/
+.env
+.env.local
+.env.development
+.env.production
+
+# Database
+*.db
+*.sqlite
+
+# Secrets
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+.history/
